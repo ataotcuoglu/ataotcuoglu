@@ -1,4 +1,4 @@
-# Ata Otcuglu
+# Ata Otcuoglu
 
 
 I spend most of my time working on software that interacts closely with the system, automation tools, and custom infrastructure projects. 
