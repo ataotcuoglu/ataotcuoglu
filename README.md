@@ -41,6 +41,6 @@ My current areas of interest:
 
 <p align="center">
   <a href="https://discord.com/invite/2002">
-    <img align="center" src="https://lanyard.cnrad.dev/api/788083217244618802">
+    <img align="center" src="https://lanyard.cnrad.dev/api/340165654542024714">
   </a>
 </p>
